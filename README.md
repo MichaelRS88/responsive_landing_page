@@ -16,7 +16,6 @@ The Motorcycle Landing Page is a responsive webpage designed to showcase and pro
 
 - HTML, CSS, and JavaScript for the frontend.
 - Responsive design achieved with CSS media queries.
-- Integration with a backend system for processing contact form submissions.
 
 ## Installation
 
@@ -37,8 +36,6 @@ Usage
 
     Open your web browser and navigate to the index.html file.
     Explore the landing page to learn about the featured motorcycle.
-    Use the contact form to make inquiries or request a test ride.
-    Follow the provided CTAs to discover more motorcycle models or contact the dealer.
 
 Author
 
